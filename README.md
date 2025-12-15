@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Witcheer!
 
-<!--
-**notwitcheer/notwitcheer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- React & Next.js Developer
+- Creating Dune Analytics dashboards
 
-Here are some ideas to get you started:
+## Tech Stack
+- React, Next.js
+- Blockchain Analytics
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find Me
+- Twitter: [@witcheer](https://twitter.com/witcheer)
+- [Website](https://witcheer.netlify.app/)
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/7ebe538d-5d94-4bfe-9db5-c33464a6fe95/thumbnail" >
+</p>
