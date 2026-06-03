@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hi, I'm Witcheer 👋
-
 ### AI Practitioner & Data-Driven Growth Specialist
 *building local LLM infrastructure, benchmarking models, publishing results*
 
@@ -19,7 +17,7 @@
 
 I build local LLM inference stacks from source on consumer hardware, benchmark models systematically, and publish datasets on HuggingFace. I also build analytics dashboards and have scaled a tech community to 20,000+ members.
 
-**current focus:**
+**Current Focus:**
 - local inference optimisation (llama.cpp, CUDA..)
 - systematic benchmarks across dense, MoE, and hybrid architectures
 - quantisation testing (GGUF Q4_K_M, IQ4_XS, turboquant turbo2/turbo3)
@@ -31,8 +29,8 @@ I build local LLM inference stacks from source on consumer hardware, benchmark m
 ## 🛠️ Tech Stack
 
 ### AI / ML
-![llama.cpp](https://img.shields.io/badge/llama.cpp-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
