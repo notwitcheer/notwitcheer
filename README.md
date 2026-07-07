@@ -52,6 +52,7 @@ I build local LLM inference stacks from source on consumer hardware, benchmark m
 
 ## 📊 Background
 
+- **Community Lead @ Nous Research** - Hermes community, local inference guides
 - **AI / ML Practitioner** - local LLM inference, model evaluation, HuggingFace contributor
 - **Growth Lead @ Yari Finance** - DeFi protocol growth, partnerships, on-chain analytics
 - **Founder @ BeraLand** - built a 20K+ member blockchain community from zero
