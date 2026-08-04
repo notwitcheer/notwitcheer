@@ -13,6 +13,18 @@
 
 ---
 
+## Start Here
+
+| If you want | Go to |
+|---|---|
+| 8GB VRAM: 11 models, practitioner tested | [HF collection](https://huggingface.co/collections/witcheer/8gb-vram-local-llms-practitioner-tested) |
+| RTX 5090 quant benchmarks (updated weekly) | [HF collection](https://huggingface.co/collections/witcheer/rtx-5090-benchmark-rig) |
+| Run the benchmarks yourself | [llm-bench-rig](https://github.com/notwitcheer/llm-bench-rig) |
+| Tested Hermes Agent configs & automations | [hermes-recipes](https://github.com/notwitcheer/hermes-recipes) |
+| RTX 50-series (sm_120) fixes & footguns | [sm120-field-guide](https://github.com/notwitcheer/sm120-field-guide) |
+
+---
+
 ## What I Do
 
 I build local LLM inference stacks from source on consumer hardware, benchmark models systematically, and publish datasets on HuggingFace. I also build analytics dashboards and have scaled a tech community to 20,000+ members.
